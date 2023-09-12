@@ -21,8 +21,8 @@ that will lead to growth in the field of industry. <br>
 
 🏤 New Era University Quezon City, 1107 Metro Manila<br>
 2021 - Present Completed 92 credits toward Bachelor of Science in Computer Science. With a good academic <br>
-               background looking to put all my knowledge and expertise into use with the job scope.<br>
-               GWA: 1.40<br>
+               \t background looking to put all my knowledge and expertise into use with the job scope.<br>
+               \t GWA: 1.40<br>
                
 🏤 Colegio De San Lorenzo Quezon City, Metro Manila <br>
 2019 – 2021 Senior Highschool Diploma Major in Science, Technology, Engineering, and Mathematics. <br>
