@@ -1,5 +1,5 @@
 📲Mobile Number: (+ 63) 9488432811 <br>
-📎<a href="linked.com/sghangaan" target="blank"><br>
+📎<a href="linked.com/sghangaan""><br>
 📧Email Address: sharonygracehangaan@gmail.com <br>
 🏠Address: 81 Don Mariano Street. Tandang Sora, Quezon City, 1107 <br>
 
