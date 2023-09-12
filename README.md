@@ -1,8 +1,9 @@
 📲Mobile Number: (+ 63) 9488432811 <br>
 📧Email Address: sharonygracehangaan@gmail.com <br>
 🏠Address: 81 Don Mariano Street. Tandang Sora, Quezon City, 1107 <br>
+linked.com/sghangaan<br>
 
-**Educatiom**
+**Education**
 
 New Era University Quezon City, 1107 Metro Manila<br>
 2021 - Present Completed 92 credits toward Bachelor of Science in Computer Science. With a good academic <br>
