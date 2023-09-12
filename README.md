@@ -54,7 +54,7 @@ Languages and Tools
 
 **Certificate**
 
-<a href="https://www.simplilearn.com/learn-business-analytics-excel-fundamentals-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotionz" target="blank"> Business Analytics with Excel - SkillUp by Simplelilearn, online Sept 07/2023
+<a href="https://www.simplilearn.com/learn-business-analytics-excel-fundamentals-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotionz" target="blank"> Business Analytics with Excel - SkillUp by Simplelilearn, online Sept 07/2023 <br>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/D5K8J4CQNCUW" target="blank"> Google Project Management Professional Certificate – Coursera, online July 21/2023 <br>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/5CCUMP9GZ3D5" target="blank"> Google IT Support Professional Certificate – Coursera, online Mar 31/2023 <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9CE0FE761A2B04B2B612CF7D4B61493D020D499B5BA99F96D5CE7B218C3B7671" target="blank"> Oracle Cloud Data Management 2022 Foundations Certified Associate – Oracle, online Dec 02/2022 <br>
